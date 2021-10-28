@@ -1,0 +1,1 @@
+# chatwork-disable-check-all
