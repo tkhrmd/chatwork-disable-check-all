@@ -38,7 +38,7 @@ const run = () => {
   let timeoutId;
 
   const observer = new MutationObserver((mutations, observer) => {
-    const target = document.getElementById("RootModalsEntryPoint");
+    const target = document.getElementById("_wrapper");
     if (target != null) {
       clearTimeout(timeoutId);
       observer.disconnect();
