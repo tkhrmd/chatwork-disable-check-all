@@ -50,8 +50,8 @@ const run = () => {
 
   timeoutId = setTimeout(() => {
     observer.disconnect();
-    console.error("chatwork-disable-check-all: target element not found");
-  }, 5000);
+    console.log("chatwork-disable-check-all: target element not found");
+  }, 3000);
 };
 
 run();
