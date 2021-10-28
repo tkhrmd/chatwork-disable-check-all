@@ -1,0 +1,10 @@
+{
+  "extName":{
+    "message": "Chatwork Disable Check All",
+    "description": "Extension name."
+  },
+  "extDescription":{
+    "message": "Disable the \"Check All\" checkbox when adding members to a Chatwork room.",
+    "description": "Extension description."
+  }
+}
