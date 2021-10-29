@@ -1,8 +1,4 @@
 {
-  "extName":{
-    "message": "Chatwork Hiyari-hatto",
-    "description": "Extension name."
-  },
   "extDescription":{
     "message": "Chatworkのチャットへメンバーを追加する際の「すべて選択」を無効にします。",
     "description": "Extension description."
