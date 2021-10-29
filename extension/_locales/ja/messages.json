@@ -1,6 +1,6 @@
 {
   "extDescription":{
-    "message": "Chatworkのチャットへメンバーを追加する際の「すべて選択」を無効にします。",
+    "message": "Chatworkの「すべて選択」チェックボックスを無効にします。",
     "description": "Extension description."
   }
 }
